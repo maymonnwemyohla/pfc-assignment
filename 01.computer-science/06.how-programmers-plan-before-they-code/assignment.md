@@ -66,7 +66,7 @@ Since we are using a Fork and Pull Request (PR) workflow, follow these steps in 
 
 ```bash
 # 1. Create and switch to a new branch for CS Assignment 06
-git switch -c cs-ep-06
+git switch -c assignment/cs-ep-06
 
 # 2. Check the status of your changed files
 git status
@@ -78,10 +78,10 @@ git add .
 git commit -m "CS Episode 06: Psuedo code"
 
 # 5. Push the new branch to your forked repository
-git push origin cs-ep-06
+git push origin assignment/cs-ep-06
 ```
 
-**Final Step:** Go to your forked repository on GitHub, switch to the `cs-ep-06` branch, and click **"Compare & pull request"** to submit your assignment to the main repository for review.
+**Final Step:** Go to your forked repository on GitHub, switch to the `assignment/cs-ep-06` branch, and click **"Compare & pull request"** to submit your assignment to the main repository for review.
 
 ## ⏰ Deadline
 

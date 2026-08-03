@@ -1,7 +1,7 @@
 # 📝 Solution: What is Computer Science?
 
-**Student Name:** [Your Name / e.g., Kyaw Kyaw]
-**Date:** [YYYY-MM-DD]
+**Student Name:** May Mon 
+**Date:** 2027/07/02
 
 ---
 
@@ -10,9 +10,9 @@
 > Selected Daily Activity: **[e.g., Making Coffee]**
 
 * **Problem:**
-  * [Write your answer here...]
+  * Example 1 problem
 * **Input:**
-  * [Write your answer here...]
+  * Example 1 input
 * **Process:**
   * [Write your answer here...]
 * **Output:**
@@ -25,7 +25,7 @@
 > Selected Application: **[e.g., Foodpanda]**
 
 * **Problem:**
-  * [Write your answer here...]
+  * Example 2 problem
 * **Input:**
   * [Write your answer here...]
 * **Process:**
@@ -40,4 +40,4 @@
 Explain the statement *"Computer Science is not just about writing code"* in your own words. (*AI contents are not allowed.*)
 
 **Answer:**
-> [Write your detailed explanation here...]
+> This is the short answer.

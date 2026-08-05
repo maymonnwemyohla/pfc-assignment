@@ -1,4 +1,4 @@
-# 📝 Solution: How Thousand Pages Become Ten Steps?
+# 📝 Assignment 04: How Screen Builds Every Color?
 
 **Student Name:** [Your Name / e.g., Kyaw Kyaw]
 **Date:** [YYYY-MM-DD]
